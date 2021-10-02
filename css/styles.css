@@ -7,11 +7,13 @@ h1 {
 
   color: #45b29a;
   font-size: 40px;
+  background-color: white;
 
 }
 
 h2 {
   color: #45b29a;
+  background-color: white;
 }
 
 hr {
@@ -20,6 +22,14 @@ hr {
   border-color: grey;
   border-width: 5px;
   width: 5%;
+}
+
+h1:hover{
+  background-color: white;
+}
+
+img:hover{
+  background-color:white;
 }
 
 /*
@@ -32,6 +42,9 @@ img{
 /*****************************CLASS SELECTOR************************/
 .love{
   background-color: black;
+}
+.profilepic{
+  border-radius: 50%
 }
 
 /******************************ID Selector*******************/
