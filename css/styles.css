@@ -1,0 +1,41 @@
+/**************************TAG SELECTOR**********************/
+body {
+  background-color: #eaf6f6;
+}
+
+h1 {
+
+  color: #45b29a;
+  font-size: 40px;
+
+}
+
+h2 {
+  color: #45b29a;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+/*
+img{
+  background-color: red;
+
+
+
+}*/
+/*****************************CLASS SELECTOR************************/
+.love{
+  background-color: black;
+}
+
+/******************************ID Selector*******************/
+#myname {
+  /* id must be unique*/
+  color: #00A19D;
+}
